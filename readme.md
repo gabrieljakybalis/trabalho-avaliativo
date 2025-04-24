@@ -1,12 +1,1 @@
-O HTML attribute background define a background plano do a website, a imagem, cor.
-Since cores não HTML podem ser especificadas por nome, código hexadecimal, RGB, HSL, e mais. Os códigos hexadecimais e RGB são os mais comuns.
-A CSS propriedade font-size define o tamanho da fonte no documento ou página da web. O tamanho da fonte pode ser dado em pixels, pontos ou em uma medida relativa, como em porcentagem.
-A propriedade CSS font-weight define o peso ou a intensidade de uma fonte, ou seja, quantos negritos deve ter.
-Border é uma propriedade do CSS que especifica a borda de um elemento, e border-radius é uma propriedade que especifica o raio das bordas.
-Margin e padding são propriedades do CSS que controlam o espaçamento entre elementos. Margin é o espaçamento externo, enquanto padding é o espaçamento interno.
-<p> seve para fazer texto.
-<h1> para fazer titulo.
-<h2> fazer subtitulo.
-<spam> destacar texo.
-<margin> cria mergem.
-experiencia: minha esperiencia foi boa embora desafiadora, gostei de aprender isso.
+O atributo de plano de fundo em HTML, controlado principalmente via CSS com a propriedade background, serve para definir a aparência do fundo de um site ou elemento, podendo ser uma cor ou uma imagem. As cores podem ser especificadas de várias formas, como por nomes (por exemplo, "blue"), códigos hexadecimais (como #ff0000), valores RGB (rgb(255, 0, 0)) ou HSL (hsl(0, 100%, 50%)), sendo os formatos hexadecimal e RGB os mais comuns. A formatação do texto é controlada, entre outras coisas, pelas propriedades font-size e font-weight. A font-size define o tamanho da fonte e pode ser medida em pixels, pontos, porcentagens ou unidades relativas como em e rem. Já a font-weight determina o peso da fonte, ou seja, se ela será mais fina ou mais grossa, como no uso de negrito. Para contornar os elementos visualmente, usa-se a propriedade border, que define a borda do elemento, incluindo sua largura, estilo e cor. Quando se quer que essas bordas tenham cantos arredondados, aplica-se a propriedade border-radius. Por fim, os espaçamentos ao redor dos elementos são controlados por margin e padding. A margin cuida do espaço externo ao redor do elemento, enquanto o padding define o espaço interno entre o conteúdo e suas bordas. Todas essas propriedades são fundamentais para definir a aparência visual de uma página web usando HTML e CSS.
